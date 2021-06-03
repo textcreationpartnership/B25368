@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The jovial beggars merry crew. When beggars that have coyn good store, yet still like vagrants live, they do but onely cheat the poor, 'tis pitty them to give Tune of, A figg for France.</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B25368</idno><idno type="EEBO-CITATION">99888135</idno>
+  <idno type="VID">193193</idno>
+  <idno type="EEBO-PROQUEST">2240898325</idno>
+  
+            <idno type="STC">Wing J1114</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.10[51]</idno>
+            <idno type="STC">ESTC R229065</idno>
+            <idno type="PROQUEST">ocm99888135</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888135e"/>
+            <note>(EEBO-TCP ; phase 2, no. B25368)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 193193)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A6:2[51])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The jovial beggars merry crew. When beggars that have coyn good store, yet still like vagrants live, they do but onely cheat the poor, 'tis pitty them to give Tune of, A figg for France.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts)  </extent>
+               <publicationStmt>
+                  <publisher>Printed for I. Deacon at the Angel in Guilt-spur-street: without Newgate.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1684?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication from Wing CD-ROM, 1996.</note>
+                  <note>Verse: "There was a jovial beggar bold,".</note>
+                  <note>Imperfect: stained.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Begging --  Poetry --  Early works to 1800.</term>
+               <term type="topical_term">Vagrancy --  Poetry --  Early works to 1800.</term>
+               <term type="topical_term">Ballads, English --  17th century.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:193193:1"/>
+            <head>THE Jovial Beggars Merry Crew.</head>
+            <head type="sub">
+               <l>When <hi>Beggars</hi> that have Coyn good store,</l>
+               <l>yet still like Vagrants live,</l>
+               <l>They do but onely Cheat the Poor,</l>
+               <l>'tis pitty them to give,</l>
+            </head>
+            <opener>Tune of, <hi>A figg for France.</hi>
+            </opener>
+            <p>
+               <figure>
+                  <figDesc>depiction of beggar with wooden leg</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>depiction of crippled beggar in circle of people</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>depiction of man watching lame dog</figDesc>
+               </figure>
+            </p>
+            <lg>
+               <l>THere was a jovial Beggar bold,</l>
+               <l>Who often lodged in the Cold;</l>
+               <l>He fram'd himself a Wooden Leg,</l>
+               <l>Which pitty mov'd as he did Beg;</l>
+               <l>And mournfully he did complain,</l>
+               <l>That from his Cradle he was Lame:</l>
+               <lg type="refrain">
+                  <l>But tho' the world us Beggars call,</l>
+                  <l>A <hi>Beggars</hi> Trade's the best of all.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>And several sorts of Bags have we,</l>
+               <l>To serve us in Necessity:</l>
+               <l>There's one for Bread, &amp; one for Salt,</l>
+               <l>When Cripple-like we seem to Halt:</l>
+               <l>A Bag for Bread, and one for Cheese,</l>
+               <l>While we do eat of what we please:</l>
+               <lg type="refrain">
+                  <l>And tho' the world us <hi>Beggars</hi> call,</l>
+                  <l>A <hi>Beggars</hi> Trade's the best of all.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>And when we see a Spark go by,</l>
+               <l>O Lord preserve you Sir, we cry;</l>
+               <l>Take pitty on the Fatherless,</l>
+               <l>That God Almighty may you bless:</l>
+               <l>My broken Limbs good Sir, behold,</l>
+               <l>E'ne kill'd with hunger, starv'd with cold</l>
+               <lg type="refrain">
+                  <l>But tho' the world us <hi>Beggars</hi> call,</l>
+                  <l>A <hi>Beggars</hi> Trade's the best of all.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>'Tis long since my poor Parents dy'd,</l>
+               <l>That for me used to provide;</l>
+               <l>And Charity so cold is grown</l>
+               <l>The like before was never known:</l>
+               <l>Oh pray Sir, pitty my destress,</l>
+               <l>I'm Lame, half Blind, and Motherless;</l>
+               <lg type="refrain">
+                  <l>Then let the world us <hi>Beggars</hi> call,</l>
+                  <l>A <hi>Beggars</hi> Trade's the best of all.</l>
+               </lg>
+            </lg>
+            <pb facs="tcp:193193:1"/>
+            <p>
+               <figure>
+                  <figDesc>depiction of woman begging with two infants</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>depiction of two children used for begging</figDesc>
+               </figure>
+            </p>
+            <lg>
+               <l>If some will not pull out their Purse,</l>
+               <l>In heart we oft lend them a Curse;</l>
+               <l>Tho' we like Beggars seem to live,</l>
+               <l>We have more coyn than some that give</l>
+               <l>If some kind hearts did know our store,</l>
+               <l>They never woul<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> relieve us more:</l>
+               <lg type="refrain">
+                  <l>And tho' the wor<gap reason="illegible" resp="#oxf" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d us <hi>Beggars</hi> call,</l>
+                  <l>A <hi>Beggars,</hi> &amp;c.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>And some that do like Cripples lye,</l>
+               <l>Have got the art to whine and Cry;</l>
+               <l>Both Old and Young that do pass by,</l>
+               <l>Take pitty on our Poverty:</l>
+               <l>Some do us pitty, and are willing,</l>
+               <l>To give us sixpence or a shilling:</l>
+               <lg type="refrain">
+                  <l>And tho' the world us <hi>Beggars</hi> call,</l>
+                  <l>A <hi>Beggars,</hi> &amp;c.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>I was brought up to'th Begging Trade,</l>
+               <l>And I full many a face have made,</l>
+               <l>Whereby I got my Master store,</l>
+               <l>But now for him i'le Beg no more;</l>
+               <l>I am set up for my own self,</l>
+               <l>By Begging get good store of Pelf:</l>
+               <lg type="refrain">
+                  <l>And tho' the world us <hi>Beggars</hi> call,</l>
+                  <l>A <hi>Beggars,</hi> &amp;c.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Sometimes in Farmers Barns lye we,</l>
+               <l>And sometimes in a Hollow Tree;</l>
+               <l>No Rent we pay, nor none we mean,</l>
+               <l>Each Mort with us lives like a <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>een,</l>
+               <l>And when the Sun at Night do<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hine,</l>
+               <l>We go to telling of our Coyn:</l>
+               <lg type="refrain">
+                  <l>Then let the world us <hi>Beggars</hi> call,</l>
+                  <l>A <hi>Beggars,</hi> &amp;c.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>No Plots against us can there be,</l>
+               <l>Who Objects seem of Charity;</l>
+               <l>But should the honest Givers think,</l>
+               <l>How we like Swine sometimes do Drink</l>
+               <l>Their Charity they would forbear,</l>
+               <l>Which sometimes fills our hearts with care;</l>
+               <lg type="refrain">
+                  <l>And tho' the world us Beggars call,</l>
+                  <l>A <hi>Beggars,</hi> &amp;c.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Other Folks Children we do take,</l>
+               <l>And for them beg for pittys sake;</l>
+               <l>But such deceitful Knaves we be,</l>
+               <l>We speak not one word true in three:</l>
+               <l>And tho' like Beggars we do live,</l>
+               <l>Our lives to us Contentment give:</l>
+               <lg type="refrain">
+                  <l>Then let the world us <hi>Beggars</hi> call,</l>
+                  <l>A <hi>Beggars</hi> Life's the best of all.</l>
+               </lg>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>I. Deacon</hi> at the <hi>Angel</hi> in <hi>Guilt-spur-street;</hi> without <hi>Newgate.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
